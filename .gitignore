@@ -1,0 +1,18 @@
+# Chaves e Senhas (CRITICO)
+.env
+senha_hash.txt
+
+# Ambiente Virtual Python
+env/
+venv/
+__pycache__/
+
+# Banco de Dados e Documentos privados
+meus_documentos/
+banco_vetorial*/
+chroma*/
+
+# Logs do Sistema
+*.log
+
+
