@@ -21,9 +21,9 @@ configuracao_usuarios = {
     'credentials': {
         'usernames': {
             'crodrigo': {
-                'email': 'rodrigo.kpa02@gmail.com',
+                'email': 'email@email.com',
                 'name': 'Rodrigo Almeida',
-                'password': '$2b$12$6xR1AjrvIgMHpK0ZvzAOt.lfLfNrbBUtO1ozgRm8fdhTY56fTO7ey'
+                'password': 'hdjahjdkhajdhjkahjkhdjkahjkhdjkhadjkhakjhdkhkjdahkdahkadh'
             }
         }
     },
