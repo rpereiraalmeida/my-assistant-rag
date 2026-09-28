@@ -9,7 +9,8 @@ __pycache__/
 
 # Banco de Dados e Documentos privados
 meus_documentos/
-banco_vetorial*/
+*banco_vetorial*/
+
 chroma*/
 
 # Logs do Sistema
